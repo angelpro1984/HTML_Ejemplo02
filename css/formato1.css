@@ -1,0 +1,39 @@
+body{
+   background-color:rgb(215,223,237);
+   color: black;
+}
+
+
+
+
+table{
+border-collapse: separate;   
+border:0px solid rgb(0, 127, 127); 
+}
+
+tr,td {
+   width: 300px;
+   text-align:center;
+   color: darkgreen;
+   background-color: aliceblue;
+   border:1px solid rgb(0, 127, 127); 
+   font-size:20px;
+   
+   border-spacing:30px;
+}
+
+
+img{
+   align-content: center;
+ 
+   height: auto;
+   opacity: 0.9;
+   
+   border-radius: 20px;
+ }
+
+
+ .container1{
+   display: flex;
+   justify-content: center;
+ }
